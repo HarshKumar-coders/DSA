@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/HarshKumar-coders/DSA/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/HarshKumar-coders/DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/HarshKumar-coders/DSA/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/HarshKumar-coders/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/HarshKumar-coders/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/HarshKumar-coders/DSA/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/HarshKumar-coders/DSA/tree/master/0078-subsets) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/HarshKumar-coders/DSA/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/HarshKumar-coders/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/HarshKumar-coders/DSA/tree/master/0037-sudoku-solver) |
+| [0073-set-matrix-zeroes](https://github.com/HarshKumar-coders/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/HarshKumar-coders/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/HarshKumar-coders/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/HarshKumar-coders/DSA/tree/master/0128-longest-consecutive-sequence) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/HarshKumar-coders/DSA/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/HarshKumar-coders/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/HarshKumar-coders/DSA/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/HarshKumar-coders/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/HarshKumar-coders/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/HarshKumar-coders/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0498-diagonal-traverse](https://github.com/HarshKumar-coders/DSA/tree/master/0498-diagonal-traverse) |
