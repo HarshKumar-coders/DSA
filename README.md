@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/HarshKumar-coders/DSA/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/HarshKumar-coders/DSA/tree/master/0485-max-consecutive-ones) |
 | [0498-diagonal-traverse](https://github.com/HarshKumar-coders/DSA/tree/master/0498-diagonal-traverse) |
+| [0560-subarray-sum-equals-k](https://github.com/HarshKumar-coders/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/HarshKumar-coders/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/HarshKumar-coders/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0704-binary-search](https://github.com/HarshKumar-coders/DSA/tree/master/0704-binary-search) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/HarshKumar-coders/DSA/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/HarshKumar-coders/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/HarshKumar-coders/DSA/tree/master/0242-valid-anagram) |
+| [0560-subarray-sum-equals-k](https://github.com/HarshKumar-coders/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/HarshKumar-coders/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/HarshKumar-coders/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/HarshKumar-coders/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/HarshKumar-coders/DSA/tree/master/0410-split-array-largest-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/HarshKumar-coders/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/HarshKumar-coders/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Two Pointers
 |  |
