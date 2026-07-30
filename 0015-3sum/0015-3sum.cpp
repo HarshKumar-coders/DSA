@@ -7,6 +7,7 @@ public:
 
         for (int i = 0; i < n - 2; i++) {
 
+
             if (i > 0 && nums[i] == nums[i - 1])
                 continue;
 
