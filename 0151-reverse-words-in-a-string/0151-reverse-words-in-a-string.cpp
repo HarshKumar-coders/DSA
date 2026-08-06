@@ -1,24 +1,66 @@
 class Solution {
-public:
-    string reverseWords(string s) {
-        int n=s.size();
-        vector<string> w;
-        string ans;
-        int i=0;
-        while(i<n){
-            while(i<n && s[i]==' ') i++;
-            if(i>=n) break;
-            int j=i;
-            while(j<n && s[j]!=' ')
-                j++;
-            w.push_back(s.substr(i,j-i));
-            i=j;
+    void reverses(int i,int j, string &s){
+    while(i<=j){
+        swap(s[i],s[j]);
+        i++;
+        j--;
+    }
+}
+void remove(string &s) {
+        int i = 0, j = 0;
+        int n = s.length();
+
+        while (i < n) {
+            // Skip leading spaces
+            while (i < n && s[i] == ' ')
+                i++;
+
+            // Copy one word
+            while (i < n && s[i] != ' ')
+                s[j++] = s[i++];
+
+            // Skip spaces after the word
+            while (i < n && s[i] == ' ')
+                i++;
+
+            // Add one space if another word exists
+            if (i < n)
+                s[j++] = ' ';
         }
 
-        for(int i=w.size()-1;i>=0;i--){
-            ans+= w[i];
-            if(i>0) ans+=" ";
+        s.resize(j);
+    }
+public:
+    string reverseWords(string s) {
+        remove(s);
+       int n=s.length();
+       int i=0;
+       int j=0;
+        reverses(0,n-1,s);
+       while(j<n){
+        if (s[i] == ' '){
+            s.erase(i, 1);
+            i++;
+            j=i;
         }
-        return ans;
+    
+            if(s[j]==' '|| j==n-1){
+                if(j==n-1){
+                    reverses(i,j,s);
+                    j++;
+                    
+                }
+                else{
+                    reverses(i,j-1,s);
+                    i=j+1;
+                    j=i;
+                }
+                
+            }
+            else{
+                j++;
+            }
+       }
+       return s;
     }
 };
