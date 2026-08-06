@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/HarshKumar-coders/DSA/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/HarshKumar-coders/DSA/tree/master/0541-reverse-string-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/HarshKumar-coders/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1903-largest-odd-number-in-string](https://github.com/HarshKumar-coders/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Trie
 |  |
 | ------- |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/HarshKumar-coders/DSA/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/HarshKumar-coders/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/HarshKumar-coders/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1903-largest-odd-number-in-string](https://github.com/HarshKumar-coders/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/HarshKumar-coders/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/HarshKumar-coders/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/HarshKumar-coders/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/HarshKumar-coders/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/HarshKumar-coders/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1382-balance-a-binary-search-tree](https://github.com/HarshKumar-coders/DSA/tree/master/1382-balance-a-binary-search-tree) |
+| [1903-largest-odd-number-in-string](https://github.com/HarshKumar-coders/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Prefix Sum
 |  |
 | ------- |
