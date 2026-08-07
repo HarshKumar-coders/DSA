@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/HarshKumar-coders/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/HarshKumar-coders/DSA/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/HarshKumar-coders/DSA/tree/master/0541-reverse-string-ii) |
+| [0796-rotate-string](https://github.com/HarshKumar-coders/DSA/tree/master/0796-rotate-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/HarshKumar-coders/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1903-largest-odd-number-in-string](https://github.com/HarshKumar-coders/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Trie
@@ -485,4 +486,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/HarshKumar-coders/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/HarshKumar-coders/DSA/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
