@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/HarshKumar-coders/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/HarshKumar-coders/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/HarshKumar-coders/DSA/tree/master/0344-reverse-string) |
+| [0451-sort-characters-by-frequency](https://github.com/HarshKumar-coders/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0541-reverse-string-ii](https://github.com/HarshKumar-coders/DSA/tree/master/0541-reverse-string-ii) |
 | [0796-rotate-string](https://github.com/HarshKumar-coders/DSA/tree/master/0796-rotate-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/HarshKumar-coders/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/HarshKumar-coders/DSA/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/HarshKumar-coders/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/HarshKumar-coders/DSA/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/HarshKumar-coders/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/HarshKumar-coders/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/HarshKumar-coders/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/HarshKumar-coders/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/HarshKumar-coders/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/HarshKumar-coders/DSA/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/HarshKumar-coders/DSA/tree/master/0295-find-median-from-data-stream) |
+| [0451-sort-characters-by-frequency](https://github.com/HarshKumar-coders/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0628-maximum-product-of-three-numbers](https://github.com/HarshKumar-coders/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/HarshKumar-coders/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0912-sort-an-array](https://github.com/HarshKumar-coders/DSA/tree/master/0912-sort-an-array) |
@@ -263,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/HarshKumar-coders/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/HarshKumar-coders/DSA/tree/master/0295-find-median-from-data-stream) |
+| [0451-sort-characters-by-frequency](https://github.com/HarshKumar-coders/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/HarshKumar-coders/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0912-sort-an-array](https://github.com/HarshKumar-coders/DSA/tree/master/0912-sort-an-array) |
 ## Merge Sort
@@ -274,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/HarshKumar-coders/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0912-sort-an-array](https://github.com/HarshKumar-coders/DSA/tree/master/0912-sort-an-array) |
 ## Radix Sort
 |  |
@@ -283,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/HarshKumar-coders/DSA/tree/master/0169-majority-element) |
+| [0451-sort-characters-by-frequency](https://github.com/HarshKumar-coders/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0912-sort-an-array](https://github.com/HarshKumar-coders/DSA/tree/master/0912-sort-an-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/HarshKumar-coders/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Backtracking
