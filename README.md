@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/HarshKumar-coders/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/HarshKumar-coders/DSA/tree/master/2073-time-needed-to-buy-tickets) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/HarshKumar-coders/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/HarshKumar-coders/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/HarshKumar-coders/DSA/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/HarshKumar-coders/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## String
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/HarshKumar-coders/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/HarshKumar-coders/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/HarshKumar-coders/DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/HarshKumar-coders/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/HarshKumar-coders/DSA/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/HarshKumar-coders/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Sorting
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/HarshKumar-coders/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/HarshKumar-coders/DSA/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1552-magnetic-force-between-two-balls](https://github.com/HarshKumar-coders/DSA/tree/master/1552-magnetic-force-between-two-balls) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/HarshKumar-coders/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3536-maximum-product-of-two-digits](https://github.com/HarshKumar-coders/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/HarshKumar-coders/DSA/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
