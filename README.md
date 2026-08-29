@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/HarshKumar-coders/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/HarshKumar-coders/DSA/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/HarshKumar-coders/DSA/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/HarshKumar-coders/DSA/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/HarshKumar-coders/DSA/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/HarshKumar-coders/DSA/tree/master/0060-permutation-sequence) |
 | [0069-sqrtx](https://github.com/HarshKumar-coders/DSA/tree/master/0069-sqrtx) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/HarshKumar-coders/DSA/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/HarshKumar-coders/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/HarshKumar-coders/DSA/tree/master/0090-subsets-ii) |
 | [0191-number-of-1-bits](https://github.com/HarshKumar-coders/DSA/tree/master/0191-number-of-1-bits) |
