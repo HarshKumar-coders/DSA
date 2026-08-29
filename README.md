@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/HarshKumar-coders/DSA/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/HarshKumar-coders/DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/HarshKumar-coders/DSA/tree/master/0054-spiral-matrix) |
+| [0066-plus-one](https://github.com/HarshKumar-coders/DSA/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/HarshKumar-coders/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/HarshKumar-coders/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/HarshKumar-coders/DSA/tree/master/0075-sort-colors) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/HarshKumar-coders/DSA/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/HarshKumar-coders/DSA/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/HarshKumar-coders/DSA/tree/master/0060-permutation-sequence) |
+| [0066-plus-one](https://github.com/HarshKumar-coders/DSA/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/HarshKumar-coders/DSA/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/HarshKumar-coders/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/HarshKumar-coders/DSA/tree/master/0189-rotate-array) |
