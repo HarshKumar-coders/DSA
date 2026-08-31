@@ -530,4 +530,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/HarshKumar-coders/DSA/tree/master/0005-longest-palindromic-substring) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/HarshKumar-coders/DSA/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/HarshKumar-coders/DSA/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
